@@ -1,4 +1,4 @@
-#Personal website of Nathan Perfetti[![ghit.me](https://ghit.me/badge.svg?repo=perfettiful/perfettiful.github.io)]
+#Personal website of Nathan Perfetti ![ghit.me](https://ghit.me/badge.svg?repo=perfettiful/perfettiful.github.io)
 
   
 Personal website of Nathan Perfetti
