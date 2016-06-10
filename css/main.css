@@ -91,7 +91,7 @@ ins, mark {text-decoration: none}
 mark {background: #c47529}
 ins {background: #d49855}
 del {text-decoration: line-through}
-::-moz-selection {background: #E74C3C; color: #fff; text-shadow: none} /* selected text */
+::-moz-selection {background: #e74c3c; color: #fff; text-shadow: none} /* selected text */
 ::selection {background: #E74C3C; color: #fff; text-shadow: none} /* selected text */
 
 /* OTHERS */
